@@ -3,6 +3,8 @@
 * Windows Sysadmin, focused on ConfigMgr, Intune, PowerShell, Active Directory, Azure AD, & Security.
 * Administration team member for the [WinAdmins Community](https://winadmins.io/).
 
+https://github-readme-stats.vercel.app/api?username=ajf8729&count_private=true&show_icons=true&theme=dark
+
 ## Links
 
 * [Blog](https://anthonyfontanez.com/)
