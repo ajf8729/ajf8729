@@ -1,15 +1,16 @@
 ## About Me
 
-* Windows Sysadmin, focused on ConfigMgr, Intune, PowerShell, Active Directory, Azure AD, & Security.
-* Administration team member for the [WinAdmins Community](https://winadmins.io/).
+- ConfigMgr Customer Engineer
+- I also dabble in Active Directory, Azure AD, and Intune
+- Administration team member for the [WinAdmins Community](https://winadmins.io/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ajf8729&count_private=true&show_icons=true&theme=dark" />
 
 ## Links
 
-* [Blog](https://anthonyfontanez.com/)
-* [Email](mailto:ajf@anthonyfontanez.com)
-* [GitHub](https://github.com/ajf8729)
-* [Lab](https://ajf8729.com)
-* [LinkedIn](https://linkedin.com/in/ajf8729)
-* [Twitter](https://twitter.com/ajf8729)
+- [Blog](https://anthonyfontanez.com/)
+- [Email](mailto:ajf@anthonyfontanez.com)
+- [GitHub](https://github.com/ajf8729)
+- [Lab](https://ajf8729.com)
+- [LinkedIn](https://linkedin.com/in/ajf8729)
+- [Twitter](https://twitter.com/ajf8729)
