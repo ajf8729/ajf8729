@@ -12,6 +12,6 @@
 - [Blog](https://anthonyfontanez.com/)
 - [Email](mailto:ajf@anthonyfontanez.com)
 - [GitHub](https://github.com/ajf8729)
-- [Lab](https://ajf8729.com)
+- [Lab](https://docs.ajf8729.com)
 - [LinkedIn](https://linkedin.com/in/ajf8729)
 - [Twitter](https://twitter.com/ajf8729)
