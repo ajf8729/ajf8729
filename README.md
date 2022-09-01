@@ -3,6 +3,7 @@
 - ConfigMgr Customer Engineer
 - I also dabble in Active Directory, Azure AD, and Intune
 - Administration team member for the [WinAdmins Community](https://winadmins.io/)
+- Ask me about internet-facing Domain Controllers
 
 <img src="https://github-readme-stats.vercel.app/api?username=ajf8729&count_private=true&show_icons=true&theme=dark" />
 
