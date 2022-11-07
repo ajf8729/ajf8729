@@ -14,5 +14,5 @@
 - [GitHub](https://github.com/ajf8729)
 - [Lab](https://docs.ajf8729.com)
 - [LinkedIn](https://linkedin.com/in/ajf8729)
+- [Mastadon](https://infosec.exchange/@ajf8729)
 - [Twitter](https://twitter.com/ajf8729)
-- <a rel="me" href="https://infosec.exchange/@ajf8729">Mastodon</a>
