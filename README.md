@@ -1,6 +1,8 @@
 [Blog](https://anthonyfontanez.com/) | [Twitter](https://twitter.com/ajf8729) | [Mastodon](https://infosec.exchange/@ajf8729) | [LinkedIn](https://linkedin.com/in/ajf8729) | [Reddit](https://www.reddit.com/user/ajf8729/) | [Email](mailto:ajf@anthonyfontanez.com) | [Lab Docs](https://docs.ajf8729.com)
 
-<img alt="Discord" src="https://img.shields.io/discord/618712310185197588?style=plastic&label=Join%20the%20WinAdmins%20Discord%20Community">
+<a href="https://discord.gg/winadmins">
+    <img alt="Discord" src="https://img.shields.io/discord/618712310185197588?label=Join%20WinAdmins&logo=discord&style=flat-square" target="_blank" />
+</a>
 
 I'm AJ, an IT professional in the Microsoft space for over ten years. I mostly work with ConfigMgr, Intune, Active Directory, and Azure AD. I'm currently a ConfigMgr Customer Engineer for Microsoft as a vendor. I'm also one of the admins of the [WinAdmins Community](https://winadmins.io/).
 
