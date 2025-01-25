@@ -1,4 +1,5 @@
-[Blog](https://anthonyfontanez.com/) | [Twitter](https://twitter.com/ajf8729) | [Mastodon](https://infosec.exchange/@ajf8729) | [LinkedIn](https://linkedin.com/in/ajf8729) | [Reddit](https://www.reddit.com/user/ajf8729/) | [Email](mailto:ajf@anthonyfontanez.com) | [Lab Docs](https://docs.ajf8729.com)
+[Blog](https://anthonyfontanez.com/) | [BlueSky](https://bsky.app/profile/ajf8729.com) | [Mastodon](https://infosec.exchange/@ajf8729) | [LinkedIn](https://linkedin.com/in/ajf8729)
+| [Email](mailto:ajf@anthonyfontanez.com)
 
 <a href="https://discord.gg/winadmins">
     <img alt="Discord" src="https://img.shields.io/discord/618712310185197588?label=Join%20WinAdmins&logo=discord&style=flat-square" target="_blank" />
